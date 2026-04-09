@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+שניאור קורטס הוא משרד מיתוג ופרסום מוביל בישראל, המתמחה באירועים, הופעות חיות ובניית זהות מותגית בלתי נשכחת. גלה כיצד אנחנו הופכים חזון לתוצאות.
+
+### שירותים
+https://example.com/services
+ממיתוג עסקי ועד קידום הופעות חיות, שירותי הפרסום וניהול האירועים של שניאור קורטס מעניקים לעסק שלך את הקול החזק שהוא ראוי לו. גלה את כל הפתרונות שלנו.
+
+### אודות
+https://example.com/about
+הכירו את הצוות היצירתי של שניאור קורטס — משרד מיתוג לעסקים קטנים וגדולים כאחד, עם תשוקה לסיפור חזותי עוצמתי ואירועים שנחרטים בזיכרון. הכל מתחיל בחזון שלכם.
+
+### צור קשר
+https://example.com/contact
+מוכנים להפוך את המותג שלכם לחוויה שאי אפשר להתעלם ממנה? צרו קשר עם שניאור קורטס עוד היום ונתחיל לתכנן את קמפיין הפרסום או האירוע הבא שלכם. אנחנו כאן בשבילכם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
